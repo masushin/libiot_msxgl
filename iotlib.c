@@ -2,6 +2,7 @@
 
 #include "msxgl.h"
 
+// For old firmware, change port number to 0x08
 __sfr __at(0x58) iot_port;
 
 u8 g_temp;

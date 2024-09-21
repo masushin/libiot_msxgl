@@ -1,4 +1,4 @@
-# libiot for MSXGL
+# iotlib for MSXGL
 
 MSXGLでMSX0のIOTノードへアクセスするためのライブラリです
 
